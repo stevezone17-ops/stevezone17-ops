@@ -67,49 +67,129 @@
 
 ---
 
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 HCAI Planner
+
+**Human-in-the-Loop AI Task Planning Platform**
+
+AI-powered task planning with adaptive scheduling, natural-language task parsing, intelligent task management, and human confirmation workflows.
+
+**Tech:** `TypeScript` • `AI/ML` • `Full Stack`
+
+<a href="https://github.com/stevezone17-ops/hcai-planner">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏛️ P20-CivicConnect
+
+**Municipal Civic Complaint & Grievance Management System**
+
+A digital platform designed to simplify civic complaint submission, tracking and grievance management.
+
+**Tech:** `JavaScript` • `Web Development`
+
+<a href="https://github.com/stevezone17-ops/P20-CivicConnect">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Adaptive-CrawlOS
+
+**Cloud-Native Adaptive Web Crawling Platform**
+
+Distributed web crawling control platform featuring Kubernetes orchestration, adaptive scheduling, fault tolerance, observability and analytics.
+
+**Tech:** `Python` • `Kubernetes` • `Cloud Native`
+
+<a href="https://github.com/stevezone17-ops/Adaptive-CrawlOS">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ Q-shield
+
+**BB84 Quantum Key Distribution Simulation**
+
+A simulation of the **BB84 quantum key distribution protocol**, demonstrating quantum cryptography concepts such as qubit encoding, measurement, basis selection, key generation, and eavesdropping detection.
+
+**Tech:** `TypeScript` • `Quantum Cryptography` • `BB84`
+
+<a href="https://github.com/stevezone17-ops/Q-shield">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI Scrum Master Assistant
+
+**AI-Powered Agile Project Management Assistant**
+
+AI-powered Scrum Master assistant featuring sprint risk prediction, recommendations, stand-up analysis, Kanban support and project reporting.
+
+**Tech:** `Python` • `AI/ML`
+
+<a href="https://github.com/stevezone17-ops/ai-scrum-master-assistant">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 More Projects
+
+**Explore My Repositories**
+
+Discover more experiments, applications, academic projects and technical work across my GitHub profile.
+
+<br>
+
+<a href="https://github.com/stevezone17-ops?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=stevezone17-ops&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=stevezone17-ops&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevezone17-ops&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=stevezone17-ops&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-### 🤖 HCAI Planner
-
-**Human-in-the-Loop AI Task Planning Platform**
-
-AI-powered task planning with natural-language task parsing, intelligent planning and human confirmation workflows.
-
----
-
-### 🌐 Full-Stack Applications
-
-Building modern web applications combining clean interfaces, backend systems, APIs and intelligent functionality.
-
----
-
-### 🧠 AI / ML Projects
-
-Exploring machine learning, intelligent systems, automation and practical AI applications.
-
----
-
-### 📊 Data-Driven Projects
-
-Projects focused on collecting, processing, analyzing and presenting useful data through interactive applications.
 
 </div>
 
@@ -139,7 +219,7 @@ Projects focused on collecting, processing, analyzing and presenting useful data
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/stevezone17-ops/stevezone17-ops/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/stevezone17-ops/stevezone17-ops/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -179,9 +259,11 @@ Projects focused on collecting, processing, analyzing and presenting useful data
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=stevezone17-ops&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=stevezone17-ops&style=flat-square&color=blue" alt="Profile Views"/>
 
-### ⚡ Thanks for visiting!
+<br><br>
+
+### ⚡ Thanks for visiting my profile!
 
 ⭐ Explore my repositories and follow my journey.
 
